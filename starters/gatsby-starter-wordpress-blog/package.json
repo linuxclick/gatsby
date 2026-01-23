@@ -8,8 +8,8 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@wordpress/block-library": "^2.29.3",
-    "gatsby": "^2.32.13",
+    "@wordpress/block-library": "^3.2.8",
+    "gatsby": "^4.22.0",
     "gatsby-image": "^2.11.0",
     "gatsby-plugin-manifest": "^2.12.1",
     "gatsby-plugin-offline": "^3.10.2",
@@ -18,7 +18,7 @@
     "gatsby-source-wordpress-experimental": "^7.0.6",
     "gatsby-transformer-sharp": "^2.12.1",
     "html-react-parser": "^0.14.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
