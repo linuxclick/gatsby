@@ -22,7 +22,7 @@
     "gatsby-source-filesystem": "^4.6.0-next.0",
     "is-online": "^8.5.1",
     "json-stringify-safe": "^5.0.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "node-fetch": "^2.6.6",
     "p-queue": "^6.6.2",
     "retry-axios": "^2.6.0",
