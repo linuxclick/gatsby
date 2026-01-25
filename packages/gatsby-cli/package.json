@@ -30,7 +30,7 @@
     "hosted-git-info": "^3.0.8",
     "is-valid-path": "^0.1.1",
     "joi": "^17.4.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "meant": "^1.0.3",
     "node-fetch": "^2.6.6",
     "opentracing": "^0.14.5",
