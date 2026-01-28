@@ -34,7 +34,7 @@
     "gatsby-plugin-utils": "^2.6.0-next.0",
     "gatsby-telemetry": "^3.6.0-next.0",
     "globby": "^11.0.4",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@babel/cli": "^7.15.4",
